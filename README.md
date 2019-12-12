@@ -63,4 +63,5 @@ end)
 
 ## 5. Credits
 
-https://github.com/kanersps for all work he done, his scripts is the basics of the xrp framework
+https://github.com/kanersps for all work he dono with RedEM and RedEM Roleplay
+https://github.com/amakuu for all the work in RedEM Roleplay
