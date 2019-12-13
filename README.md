@@ -6,11 +6,11 @@ Localization resource fro RedEM: Roleplay
 Join our discord to get the newest updates and support! - https://discord.gg/FKH4uwb
 
 ## 1. Features
-- Translate all you resources in a single one, with this resource you can keep all your translation at the same site and change it with a single change
+- Translate all you resources in a single one, with this resource you can keep all your translatiosn at the same site and change it with a simple change
 
 ## 2. Requirements
  
-- You just have to use with resource you want to translate see Usage for more info
+- You just have to use it with the resource that you want to translate see Usage for more info
 
 ## 3. Installation
 - Put redemrp_localization into server-data/resources/[RedEM] or [redemrp]
@@ -46,7 +46,7 @@ To work in your language you have only to change the Config.localeCode at config
 
 ### If you are Dev and want to your resource work with redemrp_localization
 
-You have to add somewhere in your client resource (At the end of the file recommended) a handler for "onLocaleEvent" and asing your locales variables with the given params:
+You have to add somewhere in your client resource (Its recommended you put it at the end of the file) a handler for "onLocaleEvent" and asing your locales variables with the given params:
 ```
 --=============================================================-- Localization SECTION--=============================================================--
 -- your resource should have some type of array or variables to use the locales at this case we take redemrp_respawn as example
@@ -63,5 +63,5 @@ end)
 
 ## 5. Credits
 
-https://github.com/kanersps for all work he dono with RedEM and RedEM Roleplay
+https://github.com/kanersps for all work he done with RedEM and RedEM Roleplay
 https://github.com/amakuu for all the work in RedEM Roleplay
