@@ -64,4 +64,4 @@ end)
 ## 5. Credits
 
 https://github.com/kanersps for all work he done with RedEM and RedEM Roleplay
-https://github.com/amakuu for all the work in RedEM Roleplay
+https://github.com/amakuu and https://github.com/TMMplay for all the work in RedEM Roleplay
