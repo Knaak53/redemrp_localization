@@ -1,5 +1,5 @@
 # redemrp_localization
-Localization resource fro RedEM: Roleplay
+Localization resource for RedEM: Roleplay
 
 # RedEM Roleplay: Localization - Modular Localization system
 
