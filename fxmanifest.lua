@@ -7,11 +7,12 @@ client_scripts {
 	'locales/en.lua',
 	'locales/es.lua',
 	'locales/pl.lua',
+	'locales/fr.lua'
 }
 
 server_scripts {
 	'config.lua',
-	'server/sv_main.lua',
+	'server/sv_main.lua'
 }
 
 files{}
