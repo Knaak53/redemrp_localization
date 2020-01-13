@@ -8,6 +8,7 @@ client_scripts {
 	'locales/es.lua',
 	'locales/pl.lua',
 	'locales/fr.lua',
+	'locales/tr.lua',
 }
 
 server_scripts {
